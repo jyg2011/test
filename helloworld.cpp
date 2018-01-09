@@ -4,7 +4,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-    cout << "Hello github World!" << endl;    
+    std::out << "Hello github World!" << std::endl;    
 
     return 1;
 }
